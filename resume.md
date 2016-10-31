@@ -1,100 +1,70 @@
-Johnny Coder
+James Gerity
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> <jgerity@tamu.edu> • (443) 567 0907  
+> [https://github.com/snoopjedi] [github]
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2011-2017 (expected)
+:   **PhD, Physics**  
+    Texas A&M University (College Station, TX)  
+    Research interests: particle-in-cell simulation of electron cooling dynamics,
+    design of cost-effective superconducting magnets for scientific, industrial,
+    and medical applications.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2007-2011
+:   **B.S. Physics, B.S. Mathematics**  
+    University of Maryland, Baltimore County (Baltimore, MD)
 
-    *Minor: Awesomeology*
-
-Experience
+Work Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**2011-Present Research Assistant, Texas A&M University (College Station, TX)**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Conducted research on improvements to particle accelerators with the
+Accelerator Research Laboratory.  Responsibilities included designing and
+running simulations (multiphysics, finite elements, particle-in-cell),
+analyzing results and producing summary plots, and mentoring new graduate and
+undergraduate students.
 
-* First item
+**2008-2011 IT Administrator, Leonard Paper Company (Baltimore, MD)**
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+Served as head administrator, responsible for ~100 desktop workstations, ~40
+laptops, Oracle and SQL databases, and AIX, Windows, and Linux servers.
+Responsibilities included interacting with users to diagnose and resolve
+computer problems, automating administrative processes and analytics reporting,
+and advising company management on long-term IT decisions (e.g. software
+upgrades, telephony, hardware purchasing).
 
-**That Other Job You Had**
+Programming Languages and Skills
+----------
 
-Also with a short description.
+**Python:** proficient with the SciPy stack, predominantly numpy and
+matplotlib.  Exposure to most of the standard libraries.  Skilled
+in managing a development environment using pip, Anaconda, Vagrant.  
 
-Technical Experience
+**Shell/awk scripting, GNU utilities:** Experience with Linux/Unix environments,
+creation of scripts for process automation and data wrangling.  
+
+**Javascript:** Familiarity with jQuery, d3.js, three.js in the browser.  Some
+experience using Node.js for server-side applications using e.g. Socket.io.
+
+**Other proficiencies:** C++, R, MATLAB, Mathematica, HTML/CSS, image editing.
+
+Other
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+[GitStub.org](http://gitstub.org)
+:   Chrome browser extension that provides repository recommendations for
+    GitHub users. Created in October 2016 for HackRice, where it won 2nd place.
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+[github]: https://github.com/snoopjedi
