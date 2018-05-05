@@ -11,7 +11,7 @@ James Gerity
 Education
 ---------
 
-2011-2017 (expected)
+2011-2018 (expected)
 :   **PhD, Physics**  
     Texas A&M University (College Station, TX)  
     Research interests: particle-in-cell simulation of electron cooling dynamics,
