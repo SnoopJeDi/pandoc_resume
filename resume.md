@@ -3,7 +3,7 @@ James Gerity
 
 ----
 
-> <jgerity@tamu.edu> • (443) 567 0907  
+> <snoopjedi@gmail.com> • (443) 567 0907  
 > [https://github.com/snoopjedi] [github]
 
 ----
@@ -11,7 +11,7 @@ James Gerity
 Education
 ---------
 
-2019 (expected)
+2020 (expected)
 :   **PhD, Physics**  
     Texas A&M University (College Station, TX)  
     _Research interests:_ transport of intense charged particle beams through
@@ -28,7 +28,15 @@ Education
 Work Experience
 ----------
 
-**2011-Present Research Assistant, Texas A&M University (College Station, TX)**
+**Nov 2019-Present Software Engineer, Neurala, Inc.**
+
+Python-centric member of the Applications Engineering team. Responsibilities
+include the development of Flask servers to provide customers with REST APIs
+for interacting with in-house inference engines, maintenance of Python language
+bindings to a large C++ codebase generated with SWIG, and refactoring machine
+learning research prototypes (e.g. TensorFlow) to create reliable products.
+
+**2011-Nov 2019 Research Assistant, Texas A&M University (College Station, TX)**
 
 Conducted research on improvements to particle accelerators with the
 Accelerator Research Laboratory.  Responsibilities included designing and
@@ -50,9 +58,9 @@ the entire salesforce to use the system concurrently.
 Programming Languages and Skills
 ----------
 
-**Python:** proficient with the SciPy stack, predominantly numpy and
-matplotlib. Exposure to most of the standard libraries. Skilled
-in managing a development environment using pip, Anaconda, Vagrant.  
+**Python:** proficient with the SciPy stack, standard libraries, pytest. Experience
+developing and deploying Flask servers on a uWSGI+Nginx stack in both standalone
+and containerized Docker contexts. Some experience with SWIG. 
 
 **Shell/awk scripting, GNU utilities:** Experience with Linux/Unix environments,
 creation of scripts for process automation and data wrangling, system
@@ -70,7 +78,7 @@ Other
 [GitStub](https://github.com/snoopjedi/gitstub)
 :   Chrome browser extension that provides repository recommendations for
     GitHub users. Created over 36 hours in October 2016 for HackRice, where it
-    won 2nd place and several prizes.
+    won 2nd place and several sponsored prizes.
 
 ----
 
