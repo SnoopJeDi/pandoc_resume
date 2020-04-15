@@ -28,7 +28,7 @@ Education
 Work Experience
 ----------
 
-**Nov 2019-Present Software Engineer, Neurala, Inc.**
+**Nov 2019-Present(furloughed) Software Engineer, Neurala, Inc.**
 
 Python-centric member of the Applications Engineering team. Responsibilities
 include the development of Flask servers to provide customers with REST APIs
